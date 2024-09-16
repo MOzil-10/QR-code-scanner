@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.QRScanner" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+
+    <style name="zxing_CaptureTheme" parent="Theme.AppCompat.Light.NoActionBar"> </style>
+
+</resources>
